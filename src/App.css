@@ -81,6 +81,7 @@ input {
   border-bottom: 1px solid #f2f2f2;
   outline: none;
   resize: vertical;
+  background-color: rgba(34, 134, 161, 0.2)
 }
 .loader-styles {
   position: absolute;
